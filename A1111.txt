@@ -1,5 +1,5 @@
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/zstd_1.4.4+dfsg-3ubuntu0.1_amd64.deb
-https://huggingface.co/robertquest/dependencies/raw/main/sd15_mrep.tar.gz
+https://huggingface.co/robertquest/dependencies/resolve/main/sd15_mrep.tar.gz
 https://huggingface.co/TheLastBen/dependencies/resolve/main/gcolabdeps.tar.zst
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/cloudflared-linux-amd64.deb
 https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/libc-ares2_1.15.0-1ubuntu0.2_amd64.deb
